@@ -1,0 +1,4 @@
+export enum TrackingEventsEnum {
+  SEARCH_FEEDBACK = 'SEARCH_FEEDBACK',
+  CONTENT_CLICK = 'CONTENT_CLICK',
+}

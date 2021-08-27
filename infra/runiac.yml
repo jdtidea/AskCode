@@ -1,0 +1,5 @@
+project: askoptum
+primary_region: centralus
+regional_regions: centralus
+runner: terraform
+container: runiac/deploy:latest-alpine-azure

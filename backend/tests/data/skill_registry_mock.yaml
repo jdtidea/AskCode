@@ -1,0 +1,30 @@
+apiVersion: v0
+skills:
+  - alias: myuhc-claims
+    displayName: MyUHC Claims
+    heading: Check your claims
+    entities:
+      - claims
+      - myuhc
+    intents:
+      - view
+      - check
+    content: |
+      You can find your claims information easily on [myuhc.com](https://www.myuhc.com/?srcName=MR_FAQ)
+
+      - Log in and go to Manage My Claims to see a list of your claims and if they’ve been processed.
+      - You can also call the number on your health plan ID card to talk with a representative about your claims.
+  - alias: myuhc-benefits
+    displayName: MyUHC Benefits
+    heading: Check your benefits
+    entities:
+      - benefits
+      - myuhc
+    intents:
+      - view
+      - check
+    content: |
+      Checking your benefits can help you avoid cost surprises, so it's good to review what's covered and what’s not before you make an appointment.
+
+      - Log in to [myuhc.com](https://www.myuhc.com/?srcName=MR_FAQ) and go to Benefits & Coverage to review what's covered under your plan.
+      - If you want a copy of your coverage documents mailed to you, call the phone number on your health plan ID card and ask us to send you a copy.

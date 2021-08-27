@@ -1,0 +1,156 @@
+{
+    "spellcheck": {
+        "suggestions": [],
+        "correctlySpelled": true,
+        "collations": []
+    },
+    "response": {
+        "numFound": 181,
+        "start": 0,
+        "maxScore": 38.7342,
+        "docs": [
+            {
+                "lex_title": "Orthopedic Pain Management   6 Tips To Relieve Low Back Pain",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0580-tips-to-help-relieve-back-pain",
+                "title_t": [
+                    "Orthopedic Pain Management | 6 Tips To Relieve Low Back Pain"
+                ],
+                "description_t": [
+                    "Find self-care tips you can try on your own to help with lower back issues — and when you may need to find extra help."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0580-tips-to-help-relieve-back-pain.html",
+                "score": 38.7342
+            },
+            {
+                "lex_title": "Orthopedic Health   Prevent Low Back Pain",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0077-3C-prevent-low-back-pain",
+                "title_t": [
+                    "Orthopedic Health | Prevent Low Back Pain"
+                ],
+                "description_t": [
+                    "Have you tried lifestyle changes for your lower back pain? See how to prevent lower back pain  before it flares up."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0077-3C-prevent-low-back-pain.html",
+                "score": 38.610508
+            },
+            {
+                "lex_title": "Orthopedic The Basics   Low Back Pain Overview",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0582-overview-low-back-pain",
+                "title_t": [
+                    "Orthopedic The Basics | Low Back Pain Overview"
+                ],
+                "description_t": [
+                    "Find an overview of common causes for low back pain and your treatment options."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0582-overview-low-back-pain.html",
+                "score": 38.610508
+            },
+            {
+                "lex_title": "Orthopedic Pain Management   Ways To Live With Chronic Pain",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0579-live-well-with-chronic-pain",
+                "title_t": [
+                    "Orthopedic Pain Management | Ways To Live With Chronic Pain"
+                ],
+                "description_t": [
+                    "Live well with chronic pain by; understanding what it is, treatment options and 9 easy ways you can help manage the pain."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0579-live-well-with-chronic-pain.html",
+                "score": 26.861595
+            },
+            {
+                "lex_title": "Heart Failure   Cut Back On Salt",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/heart-failure/diet_exercise/0228-3C-cut-back-on-salt",
+                "title_t": [
+                    "Heart Failure | Cut Back On Salt"
+                ],
+                "description_t": [
+                    "Making heart-healthy, low-sodium food choices is especially important for people with heart failure."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/heart-failure/diet_exercise/0228-3C-cut-back-on-salt.html",
+                "score": 26.723267
+            },
+            {
+                "lex_title": "Orthopedic Health",
+                "docType_s": "tools",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health",
+                "title_t": [
+                    "Orthopedic Health"
+                ],
+                "description_t": [
+                    "Do you live with back, knee, hip, neck or shoulder pain? Learn how to manage it better."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health.html",
+                "score": 24.077993
+            },
+            {
+                "lex_title": "Orthopedic The Basics   Overview Of Neck Pain",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0585-overview-neck-pain",
+                "title_t": [
+                    "Orthopedic The Basics | Overview Of Neck Pain"
+                ],
+                "description_t": [
+                    "Get an overview of neck pain, symptoms and what you can do for relief."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0585-overview-neck-pain.html",
+                "score": 21.95707
+            },
+            {
+                "lex_title": "Orthopedic The Basics   What Causes Hip Pain",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0583-what-causes-hip-pain",
+                "title_t": [
+                    "Orthopedic The Basics | What Causes Hip Pain"
+                ],
+                "description_t": [
+                    "Get the details on what causes hip pain and approaches to keep you active and living life."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0583-what-causes-hip-pain.html",
+                "score": 20.013157
+            },
+            {
+                "lex_title": "Orthopedic Pain Management   Talking To Your Doctor",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0581-talking-doctor-about-pain",
+                "title_t": [
+                    "Orthopedic Pain Management | Talking To Your Doctor"
+                ],
+                "description_t": [
+                    "Check out six ways you can improve communication and be a better advocate for your health."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/pain_management/0581-talking-doctor-about-pain.html",
+                "score": 18.624765
+            },
+            {
+                "lex_title": "Orthopedic The Basics   What Causes Shoulder Pain",
+                "docType_s": "article",
+                "id": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0586-what-causes-shoulder-pain",
+                "title_t": [
+                    "Orthopedic The Basics | What Causes Shoulder Pain"
+                ],
+                "description_t": [
+                    "Get information of common cause of shoulder pain, such as sport injuries, frozen shoulder and arthritis."
+                ],
+                "url_t": "/content/healthlibrary/home/hl/health-topics/orthopedic-health/the_basics/0586-what-causes-shoulder-pain.html",
+                "score": 18.624765
+            }
+        ]
+    },
+    "responseHeader": {
+        "zkConnected": true,
+        "status": 0,
+        "QTime": 40
+    },
+    "facet_counts": {
+        "facet_queries": {},
+        "facet_fields": {},
+        "facet_ranges": {},
+        "facet_intervals": {},
+        "facet_heatmaps": {}
+    }
+}

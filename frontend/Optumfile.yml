@@ -1,0 +1,8 @@
+apiVersion: v1
+metadata:
+    askId: UHGWM110-027619
+    caAgileId: 491974872692
+    projectKey: com.optum.askoptum:frontend
+    projectFriendlyName: askoptum-frontend
+    componentType: code
+    targetQG: GATE_00

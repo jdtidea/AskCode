@@ -1,0 +1,37 @@
+@import '../../../node_modules/@uitk/themes/solas/design-tokens.scss';
+
+.sub-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin: 0;
+  background: $color-background-accent;
+}
+.left-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.round-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 3px #ffffff;
+  background: url('../../assets/user_badge_bg.png');
+  margin-right: 12px;
+  color: $color-text-inverse;
+  font-size: $font-size-h3;
+  font-weight: $font-weight-h3;
+  line-height: 1;
+  font-family: $font-family-h3;
+  text-align: center;
+}

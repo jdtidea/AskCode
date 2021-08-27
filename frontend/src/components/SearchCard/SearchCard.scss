@@ -1,0 +1,55 @@
+@import '../../../node_modules/@uitk/themes/solas/design-tokens.scss';
+
+.input-btn-container {
+  display: flex;
+  align-items: center;
+}
+
+.text-input {
+  height: 32px;
+}
+.how-label {
+  margin: 0;
+  margin-bottom: $spacing-xxs;
+  font-size: 1.5rem !important;
+  font-family: $font-family-base;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+.ask-btn-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.label-holder {
+  display: flex;
+  margin-top: $spacing-xs;
+  font-family: Arial, Helvetica, sans-serif;
+}
+@media only screen and (max-width: 780px) {
+  .input-btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+#text-input {
+  margin-right: 16px;
+  width: 75%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media only screen and (max-width: 780px) {
+  #text-input {
+    margin-right: 0px;
+    width: 100% !important;
+  }
+
+  .ask-btn {
+    width: 100%;
+    margin-top: 12px;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,22 @@
+@startuml
+autonumber
+actor User
+participant "Front End" as fe
+participant "Back End" as be
+participant "AVA stuff" as eg
+participant VCM
+participant BNE
+
+User -> fe : "My back hurts"
+note left: User is authed \nwith complete profile
+fe -> be : GET /api/search?q=my+back+hurts
+be -> be : Check Session for Elg info
+be -> eg : Submit "Big 5"
+be -> VCM : Submit search query
+eg -> be : Return info needed for BNE
+VCM -> be : Return found IBaag categories
+be -> BNE : Submit request with VCM category and \neligibility attributes
+BNE -> be : Categorical and plan specific IBaaG content
+be -> fe : Complete initial GET query
+fe -> User : Search satisfied
+@enduml

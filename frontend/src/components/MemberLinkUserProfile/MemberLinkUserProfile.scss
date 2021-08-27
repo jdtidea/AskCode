@@ -1,0 +1,29 @@
+div.header {
+  display: flex;
+  align-items: center;
+}
+
+.sub-text {
+  font-size: small;
+}
+
+.link-btn-up,
+.link-btn-ud,
+.link-btn-u {
+  background: #fff !important;
+  color: #c25608 !important;
+  box-shadow: inset 0 0 0 1px #c25608;
+}
+
+.link-btn-up:hover,
+.link-btn-ud:hover,
+.link-btn-u:hover {
+  color: #c25608;
+  background: #fff;
+  box-shadow: 0 0 0 2px #c25608, 0 0 0 5px #fff;
+  opacity: 0.9;
+}
+
+.member-link-card {
+  width: 50%;
+}

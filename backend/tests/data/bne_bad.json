@@ -1,0 +1,142 @@
+{
+  "accumulators": null,
+    "ibaag": [
+      {
+        "code": "33",
+        "isCsr": false,
+        "sectionName": "Spine and Joint Solution Program (SJS)"
+
+      },
+      {
+        "code": "33",
+        "isCsr": false,
+        "priorAuths": [
+          {
+            "header": "Rehabilitation Services - Outpatient Chiropractic (Manipulative) Treatment",
+            "lines": [
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?",
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?"
+            ]
+          }
+        ],
+        "sectionName": "Rehabilitation Services - Outpatient Chiropractic (Manipulative) Treatment",
+        "sections": [
+          {
+            "content": "Rehabilitation Services - Outpatient Chiropractic (Manipulative) Treatment\nWhat are rehabilitation services? Health care services that help a person get back a functional skill that has been lost because of sickness or injury.\nWhat are chiropractic (manipulative) services? Treatment that focuses on the spine and nervous system to help with pain and overall health.\nOutpatient services must be given by a doctor or a licensed therapist.\nWant more information?\nView the glossary for definitions.",
+            "header": "Common Medical Event"
+          },
+          {
+            "content": "UHC Network\nPrimary Doctor:\n20% co-insurance\nAfter you pay the deductible.\nSpecialist:\n20% co-insurance\nAfter you pay the deductible.\nYour first 3 visits for any combination of chiropractic (manipulative) and physical therapy for new low back pain may be covered at no charge.\nIs prior authorization needed?\nNo",
+            "header": "Your cost if you use Network benefits"
+          },
+          {
+            "content": "50% co-insurance\nAfter you pay the deductible.\nIs prior authorization needed?\nNo",
+            "header": "Your cost if you use Out-of-Network benefits"
+          },
+          {
+            "content": "Limited to 20 Visits Per Calendar Year\nIf the service is provided in a doctor’s office, additional co-pays, deductible or co-insurance may apply.\nYour benefits may be denied or reduced if you are not improving or your treatment goals have been met.\n· The Orthopedic Health Support (OHS) program is for members looking to have spinal fusion, disc procedures or joint replacements. This program offers UHG employees access to high quality facilities and surgeons as well as a nurse for pain management and support both before and after surgery.\n· Enrollment in Orthopedic Health Support (OHS) is required for coverage of any inpatient or outpatient knee, hip or spine surgery. You must contact Health Care Advisor prior to surgery to enroll in the program in order for the surgery to be considered a Covered Health Service under the plan.\n· Non-Network surgeries will not be covered.\n· For more information about OHS or to join, please call a Health Care Advisor at 1-800-357-1371 with questions",
+            "header": "Limits & Exceptions"
+          }
+        ]
+      },
+      {
+        "code": "33",
+        "isCsr": false,
+        "priorAuths": [
+          {
+            "header": "Rehabilitation Services - Outpatient Physical Therapy",
+            "lines": [
+              "You do not need to get <pa>prior</pa> <pa>authorization</pa> before getting this care.",
+              "You do not need to get <pa>prior</pa> <pa>authorization</pa> before getting this care. 50% coinsurance\nAfter you pay the deductible."
+            ]
+          }
+        ],
+        "sectionName": "Rehabilitation Services - Outpatient Physical Therapy",
+        "sections": [
+          {
+            "content": "Rehabilitation Services - Outpatient Physical Therapy\nWhat are rehabilitation services?\nRehabilitation services are health care services from a doctor or licensed therapist that help a person get back or improve a functional skill that has been lost because of sickness or injury.\nNeed help understanding health care terms?\nView the glossary for definitions.",
+            "header": "Common Medical Event"
+          },
+          {
+            "content": "UHC Network\nPrimary Doctor:\n20% coinsurance\nAfter you pay the deductible.\nSpecialist:\n20% coinsurance\nAfter you pay the deductible.\nYour first 3 visits for any combination of chiropractic (manipulative) and physical therapy for new low back pain may be covered at no charge.\nYou do not need to get prior authorization before getting this care.",
+            "header": "Your cost if you use Network benefits"
+          },
+          {
+            "content": "50% coinsurance\nAfter you pay the deductible.\nYou do not need to get prior authorization before getting this care.",
+            "header": "Your cost if you use Out-of-Network benefits"
+          },
+          {
+            "content": "Limited to 60 Visits Per Calendar Year combined with occupational therapy.\nYou may have to pay an additional copay, deductible or coinsurance for services provided in a doctor's office.\nYour benefits may be denied or reduced if you are not improving or your treatment goals have been met.",
+            "header": "Limits & Exceptions"
+          }
+        ]
+      },
+      {
+        "code": "33",
+        "isCsr": false,
+        "priorAuths": [
+          {
+            "header": "Rehabilitation Services - Outpatient Occupational Therapy",
+            "lines": [
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?",
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?"
+            ]
+          }
+        ],
+        "sectionName": "Rehabilitation Services - Outpatient Occupational Therapy",
+        "sections": [
+          {
+            "content": "Rehabilitation Services - Outpatient Occupational Therapy\nWhat are rehabilitation services? Health care services that help a person get back a functional skill that has been lost because of sickness or injury.\nOutpatient services must be given by a doctor or a licensed therapist.\nWant more information?\nView the glossary for definitions.",
+            "header": "Common Medical Event"
+          },
+          {
+            "content": "UHC Network\nPrimary Doctor:\n20% co-insurance\nAfter you pay the deductible.\nSpecialist:\n20% co-insurance\nAfter you pay the deductible.\nIs prior authorization needed?\nNo",
+            "header": "Your cost if you use Network benefits"
+          },
+          {
+            "content": "50% co-insurance\nAfter you pay the deductible.\nIs prior authorization needed?\nNo",
+            "header": "Your cost if you use Out-of-Network benefits"
+          },
+          {
+            "content": "Limited to 60 Visits Per Calendar Year combined with physical therapy\nIf the service is provided in a doctor’s office, additional co-pays, deductible or co-insurance may apply.\nYour benefits may be denied or reduced if you are not improving or your treatment goals have been met.",
+            "header": "Limits & Exceptions"
+          }
+        ]
+      },
+      {
+        "code": "33",
+        "isCsr": false,
+        "priorAuths": [
+          {
+            "header": "Habilitative Services - Chiropractic (Manipulative) Treatment",
+            "lines": [
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?",
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?",
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?",
+              "Is <pa>prior</pa> <pa>authorization</pa> needed?",
+              "· 5 business days before a scheduled admission\n· 24 hours before a scheduled inpatient admission\nBenefits will be reduced by 100% coinsurance if you don't get <pa>prior</pa> <pa>authorization</pa>\n\nOutpatient\n50% co-insurance\nAfter you pay the deductible."
+            ]
+          }
+        ],
+        "sectionName": "Habilitative Services - Chiropractic (Manipulative) Treatment",
+        "sections": [
+          {
+            "content": "Habilitative Services - Chiropractic (Manipulative) Treatment\nWhat are habilitative services? Health care services that help a person learn or improve a functional skill that should be present but isn’t because of sickness or injury.\nServices must be given by a doctor or a licensed therapist.\nWant more information?\nView the glossary for definitions.",
+            "header": "Common Medical Event"
+          },
+          {
+            "content": "Inpatient\nThe amount you pay is based on where the covered health service is provided.\nIs prior authorization needed?\nNo\nOutpatient\nUHC Network\nPrimary Doctor:\n20% co-insurance\nAfter you pay the deductible.\nSpecialist:\n20% co-insurance\nAfter you pay the deductible.\nYour first 3 visits for any combination of chiropractic (manipulative) and physical therapy for new low back pain may be covered at no charge.\nIs prior authorization needed?\nNo",
+            "header": "Your cost if you use Network benefits"
+          },
+          {
+            "content": "Inpatient\nThe amount you pay is based on where the covered health service is provided.\nIs prior authorization needed?\nYes\nWhen do I need to call?\n· 5 business days before a scheduled admission\n· 24 hours before a scheduled inpatient admission\nBenefits will be reduced by 100% coinsurance if you don't get prior authorization\n\nOutpatient\n50% co-insurance\nAfter you pay the deductible.\nIs prior authorization needed?\nNo",
+            "header": "Your cost if you use Out-of-Network benefits"
+          },
+          {
+            "content": "Inpatient:\nLimited to 120 Days Per Calendar Year combined with Skilled Nursing Facility/Inpatient Rehabilitation Services.\nOutpatient:\nLimited to 20 Visits Per Calendar Year\nIf the service is provided in a doctor’s office, additional co-pays, deductible or co-insurance may apply.",
+            "header": "Limits & Exceptions"
+          }
+        ]
+      }
+    ]
+}

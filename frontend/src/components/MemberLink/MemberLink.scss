@@ -1,0 +1,23 @@
+div.header {
+  display: flex;
+  align-items: center;
+}
+
+.sub-text {
+  font-size: small;
+}
+
+.link-btn {
+  background: #000 !important;
+  box-shadow: inset 0 0 0 1px #000;
+  position: absolute;
+  margin-top: -32px;
+  margin-left: 525px;
+}
+
+.link-btn:hover {
+  color: #000;
+  background: #fff;
+  box-shadow: 0 0 0 2px #000, 0 0 0 5px #fff;
+  opacity: 0.9;
+}

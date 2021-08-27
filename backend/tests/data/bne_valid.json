@@ -1,0 +1,69 @@
+{
+  "accumulators": [
+    {
+      "code": "33",
+      "networks": [
+        {
+          "label": "(covered annually)",
+          "network": "In-Network",
+          "remaining": 0,
+          "total": 20,
+          "used": 0
+        },
+        {
+          "label": "(covered annually)",
+          "network": "Out-Of-Network",
+          "remaining": 0,
+          "total": 20,
+          "used": 0
+        }
+      ],
+      "serviceName": "Spinal Manipulation Therapy"
+    },
+    {
+      "code": "PT",
+      "networks": [
+        {
+          "label": "(covered annually)",
+          "network": "In-Network",
+          "remaining": 0,
+          "total": 20,
+          "used": 0
+        },
+        {
+          "label": "(covered annually)",
+          "network": "Out-Of-Network",
+          "remaining": 0,
+          "total": 20,
+          "used": 0
+        }
+      ],
+      "serviceName": "Physical Therapy"
+    }
+  ],
+  "ibaag": [
+    {
+      "code": "",
+      "isCsr": false,
+      "sectionName": "Habilitative Services - Physical therapy",
+      "sections": [
+        {
+          "content": " \u003cb\u003eWhat are habilitative services?\u003c/b\u003eHealth care services that help a person learn or improve a functional skill that should be present but isn’t because of sickness or injury. Services must be given by a doctor or a licensed therapist. \u003cb\u003eWant more information?\u003c/b\u003e View the \u003cb\u003eglossary\u003c/b\u003e for definitions.",
+          "header": "Situation"
+        },
+        {
+          "content": " \u003cb\u003eInpatient\u003c/b\u003e The amount you pay is based on where the covered health service is provided. \u003cb\u003eIs\u003c/b\u003eprior authorization \u003cb\u003eneeded?\u003c/b\u003e No \u003cb\u003eOutpatient\u003c/b\u003e \u003cb\u003eUHC Network\u003c/b\u003e \u003cb\u003e20%\u003c/b\u003eco-insurance After you pay the deductible. \u003cb\u003eIs\u003c/b\u003eprior authorization \u003cb\u003eneeded?\u003c/b\u003e No",
+          "header": "Your cost if you use Network benefits"
+        },
+        {
+          "content": " \u003cb\u003eInpatient\u003c/b\u003e The amount you pay is based on where the covered health service is provided. \u003cb\u003eIs\u003c/b\u003eprior authorization \u003cb\u003eneeded?\u003c/b\u003e Yes \u003cb\u003eWhen do I need to call?\u003c/b\u003e \u003cul\u003e \u003cli\u003e5 business days before a scheduled admission\u003c/li\u003e \u003cli\u003e24 hours before a scheduled inpatient admission\u003c/li\u003e \u003c/ul\u003e \u003cb\u003e50%\u003c/b\u003eco-insurance, however the reduction in benefits will not exceed \u003cb\u003e$500\u003c/b\u003eif you don't get prior authorization \u003cb\u003eOutpatient\u003c/b\u003e \u003cb\u003e40%\u003c/b\u003eco-insurance After you pay the deductible. \u003cb\u003eIs\u003c/b\u003eprior authorization \u003cb\u003eneeded?\u003c/b\u003e No",
+          "header": "Your cost if you use Out-of-Network benefits"
+        },
+        {
+          "content": " \u003cb\u003eInpatient:\u003c/b\u003e Limited to \u003cb\u003e60\u003c/b\u003eDaysPer Calendar Yearcombined with \u003ci\u003eSkilled Nursing Facility/Inpatient Rehabilitation Services\u003c/i\u003e. \u003cb\u003eOutpatient:\u003c/b\u003e Limited to \u003cb\u003e20\u003c/b\u003eVisitsPer Calendar Yearcombined with \u003ci\u003eRehabilitation Services – Outpatient Physical Therapy\u003c/i\u003e. Visits for physical therapy do not apply to the treatment of autism or early childhood intervention. If the service is provided in a doctor’s office, additional co-pays, deductible or co-insurance may apply.",
+          "header": "Limits \u0026 Exceptions"
+        }
+      ]
+    }
+  ]
+}

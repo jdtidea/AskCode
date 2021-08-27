@@ -1,0 +1,33 @@
+{
+  "accumulatorServiceCodes": [
+    "33",
+    "PT"
+  ],
+  "agentID": "bhiggin7",
+  "at": "2021-02-21",
+  "cosmosDiv": "",
+  "coverageSystemCode": "01",
+  "deductible": false,
+  "dependentNumber": "001",
+  "dob": "1985-01-20",
+  "docLink": false,
+  "documentType": "TOPS",
+  "eligibility": false,
+  "firstName": "AYLISSA",
+  "fundingArrangement": "A",
+  "ibaagServiceCodes": [
+    "33",
+    "PT"
+  ],
+  "lastName": "PEGUERO",
+  "legacySubscriberId": "00474219463",
+  "marketType": "50",
+  "memberID": "909854131",
+  "planDetails": false,
+  "planID": "0907746",
+  "productType": "PS1",
+  "relationshipCode": "00",
+  "setNumber": "001ACIS",
+  "sourceCode": "CS",
+  "subscriber": "y"
+}
